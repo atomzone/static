@@ -1,0 +1,34 @@
+{
+  "resources": [
+    {
+      "source": {
+        "url": "http://thetechmonkey.co.uk/mixes/022.mp3"
+      }
+    },
+    {
+      "source": {
+        "url": "http://thetechmonkey.co.uk/mixes/025.mp3"
+      }
+    },
+    {
+      "source": {
+        "url": "http://thetechmonkey.co.uk/mixes/026%20150bpm.mp3"
+      }
+    },
+    {
+      "source": {
+        "url": "http://thetechmonkey.co.uk/mixes/027.mp3"
+      }
+    },
+    {
+      "source": {
+        "url": "https://getsamplefiles.com/download/m4a/sample-3.m4a"
+      }
+    },
+    {
+      "source": {
+        "url": "http://192.168.1.222:8001/BBC/The_Ravers_Hour_-_Aho_Ssan_in_the_Mix_m001rrfl_original.m4a"
+      }
+    }
+  ]
+}
