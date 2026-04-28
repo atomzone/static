@@ -2,6 +2,11 @@
   "resources": [
     {
       "source": {
+        "url": "https://www.richardfarrar.com/audio/21%20-%20ID3%20Image%20-%20All%20Images.mp3"
+      }
+    },
+    {
+      "source": {
         "url": "https://filesampleshub.com/download/audio/mp3/sample2.MP3"
       }
     },
