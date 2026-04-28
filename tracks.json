@@ -2,6 +2,11 @@
   "resources": [
     {
       "source": {
+        "url": "https://filesampleshub.com/download/audio/mp3/sample2.MP3"
+      }
+    },
+    {
+      "source": {
         "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
       }
     },
