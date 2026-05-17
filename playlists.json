@@ -1,0 +1,118 @@
+{
+  "playlists": [
+    {
+      "title": "Default Playlist",
+      "desc": "General tracks and standalone audio samples",
+      "tracks": [
+        {
+          "source": {
+            "url": "https://www.richardfarrar.com/audio/21%20-%20ID3%20Image%20-%20All%20Images.mp3",
+            "format": "mp3"
+          },
+          "meta": {
+            "title": "Has Id3 Image"
+          }
+        },
+        {
+          "source": {
+            "url": "https://filesampleshub.com/download/audio/mp3/sample2.MP3",
+            "format": "mp3"
+          },
+          "meta": {
+            "title": "Sample 2 (missing id3?)",
+            "artist": "filesampleshub",
+            "album": "Github"
+          }
+        },
+        {
+          "source": {
+            "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+            "format": "mp3"
+          },
+          "meta": {
+            "title": "Soundhelix Song 1",
+            "album": "Github"
+          }
+        },
+        {
+          "source": {
+            "url": "https://getsamplefiles.com/download/m4a/sample-3.m4a",
+            "format": "m4a"
+          },
+          "meta": {
+            "title": "MP4 Alert",
+            "artist": "getsamplefiles",
+            "album": "Github"
+          }
+        }
+      ]
+    },
+    {
+      "title": "thetechmonkey",
+      "desc": "Peng mixes from thetechmonkey collection",
+      "tracks": [
+        {
+          "source": {
+            "url": "http://thetechmonkey.co.uk/mixes/022.mp3",
+            "format": "mp3"
+          },
+          "meta": {
+            "title": "022",
+            "artist": "peng",
+            "album": "thetechmonkey"
+          }
+        },
+        {
+          "source": {
+            "url": "http://thetechmonkey.co.uk/mixes/025.mp3",
+            "format": "mp3"
+          },
+          "meta": {
+            "title": "025",
+            "artist": "peng",
+            "album": "thetechmonkey"
+          }
+        },
+        {
+          "source": {
+            "url": "http://thetechmonkey.co.uk/mixes/026%20150bpm.mp3",
+            "format": "mp3"
+          },
+          "meta": {
+            "title": "026 150 Bpm",
+            "artist": "peng",
+            "album": "thetechmonkey"
+          }
+        },
+        {
+          "source": {
+            "url": "http://thetechmonkey.co.uk/mixes/027.mp3",
+            "format": "mp3"
+          },
+          "meta": {
+            "title": "027",
+            "artist": "peng",
+            "album": "thetechmonkey"
+          }
+        }
+      ]
+    },
+    {
+      "title": "BBC",
+      "desc": "BBC radio recordings and archived mixes",
+      "tracks": [
+        {
+          "source": {
+            "url": "http://192.168.1.222:8001/BBC/The_Ravers_Hour_-_Aho_Ssan_in_the_Mix_m001rrfl_original.m4a",
+            "format": "m4a"
+          },
+          "meta": {
+            "title": "The Ravers Hour Aho Ssan In The Mix M001rrfl Original",
+            "artist": "LAN",
+            "album": "error"
+          }
+        }
+      ]
+    }
+  ]
+}
