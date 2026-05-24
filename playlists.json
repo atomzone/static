@@ -1,6 +1,7 @@
 {
   "playlists": [
     {
+      "id": "pl:1",
       "title": "Test Playlist",
       "desc": "small collection",
       "tracks": [
@@ -17,6 +18,7 @@
       ]
     },
     {
+      "id": "pl:2",
       "title": "Default Playlist",
       "desc": "General tracks and standalone audio samples",
       "tracks": [
@@ -64,6 +66,7 @@
       ]
     },
     {
+      "id": "pl:3",
       "title": "thetechmonkey",
       "desc": "Peng mixes from thetechmonkey collection",
       "tracks": [
@@ -114,6 +117,7 @@
       ]
     },
     {
+      "id": "pl:4",
       "title": "BBC",
       "desc": "BBC radio recordings and archived mixes",
       "tracks": [
