@@ -4,6 +4,7 @@
       "id": "pl:1",
       "title": "Test Playlist",
       "description": "small collection",
+      "artwork": "https://picsum.photos/100/100",
       "tracks": [
         {
           "source": {
@@ -21,6 +22,7 @@
       "id": "pl:2",
       "title": "Default Playlist",
       "description": "General tracks and standalone audio samples",
+      "artwork": "https://picsum.photos/100/100",
       "tracks": [
         {
           "source": {
