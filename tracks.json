@@ -2,6 +2,83 @@
   "resources": [
     {
       "source": {
+        "url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB1079761046.mp3?updated=1753938443",
+        "format": "mpeg"
+      },
+      "meta": {
+        "title": "Exercise Scientist’s Masterclass On Motivation, Habits & Discipline - Dr Mike Israetel - #970",
+        "artist": "Chris Williamson",
+        "album": "Modern Wisdom"
+      }
+    },
+    {
+      "source": {
+        "url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB7641647186.mp3?updated=1738977353",
+        "format": "mpeg"
+      },
+      "meta": {
+        "title": "Exercise Scientist’s Masterclass On Longevity - Dr Mike Israetel - #872",
+        "artist": "Chris Williamson",
+        "album": "Modern Wisdom"
+      }
+    },
+    {
+      "source": {
+        "url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB9248636719.mp3?updated=1756212259",
+        "format": "mpeg"
+      },
+      "meta": {
+        "title": "Exercise Scientist’s Masterclass On Recovery & Stress Management - Dr Mike Israetel - #842",
+        "artist": "Chris Williamson",
+        "album": "Modern Wisdom"
+      }
+    },
+    {
+      "source": {
+        "url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB1330245351.mp3?updated=1738979650",
+        "format": "mpeg"
+      },
+      "meta": {
+        "title": "2.25M Q&A - The Manosphere, Mike Israetel & Overcoming Insecurities - #816",
+        "artist": "Chris Williamson",
+        "album": "Modern Wisdom"
+      }
+    },
+    {
+      "source": {
+        "url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB4321208333.mp3?updated=1738980135",
+        "format": "mpeg"
+      },
+      "meta": {
+        "title": "Exercise Scientist’s Masterclass On Losing Fat - Dr Mike Israetel - #804",
+        "artist": "Chris Williamson",
+        "album": "Modern Wisdom"
+      }
+    },
+    {
+      "source": {
+        "url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB3275673290.mp3?updated=1739380233",
+        "format": "mpeg"
+      },
+      "meta": {
+        "title": "Exercise Scientist’s Masterclass On Building Muscle - Dr Mike Israetel - #744",
+        "artist": "Chris Williamson",
+        "album": "Modern Wisdom"
+      }
+    },
+    {
+      "source": {
+        "url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB9096818437.mp3?updated=1741184004",
+        "format": "mpeg"
+      },
+      "meta": {
+        "title": "Can Money Actually Buy You Happiness? - Dr Mike Israetel - #651",
+        "artist": "Chris Williamson",
+        "album": "Modern Wisdom"
+      }
+    },
+    {
+      "source": {
         "url": "https://www.richardfarrar.com/audio/21%20-%20ID3%20Image%20-%20All%20Images.mp3"
       },
       "meta": {
