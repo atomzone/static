@@ -14,7 +14,21 @@
           "meta": {
             "title": "Test - Soundhelix Song 1",
             "album": "Github"
-          }
+          },
+          "chapters": [
+            {
+              "timestamp": "00:01:00",
+              "title": "Chapter 01"
+            },
+            {
+              "timestamp": "00:01:30",
+              "title": "Chapter 02"
+            },
+            {
+              "timestamp": "00:03:00",
+              "title": "Chapter 03"
+            }
+          ]
         }
       ]
     },
