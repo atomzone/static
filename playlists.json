@@ -88,7 +88,7 @@
       "tracks": [
         {
           "source": {
-            "url": "http://thetechmonkey.co.uk/mixes/slow%20down.mp3",
+            "url": "http://thetechmonkey.co.uk/mixes/Slow%down.mp3",
             "format": "mp3"
           },
           "meta": {
@@ -99,7 +99,7 @@
         },
         {
           "source": {
-            "url": "http://thetechmonkey.co.uk/mixes/george%20goes%20to%20ibiza.mp3",
+            "url": "http://thetechmonkey.co.uk/mixes/George%20goes%20to%20Ibiza.mp3",
             "format": "mp3"
           },
           "meta": {
