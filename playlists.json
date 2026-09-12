@@ -2,8 +2,8 @@
   "playlists": [
     {
       "id": "pl:1",
-      "title": "Test Playlist",
-      "description": "small collection",
+      "title": "Chapter Playlist",
+      "description": "Test for chapters feature",
       "artwork": "https://picsum.photos/50/50?pl_1",
       "tracks": [
         {
@@ -86,6 +86,28 @@
       "title": "thetechmonkey",
       "description": "Peng mixes from thetechmonkey collection",
       "tracks": [
+        {
+          "source": {
+            "url": "http://thetechmonkey.co.uk/mixes/slow%20down.mp3",
+            "format": "mp3"
+          },
+          "meta": {
+            "title": "Slow Down",
+            "artist": "peng",
+            "album": "thetechmonkey"
+          }
+        },
+        {
+          "source": {
+            "url": "http://thetechmonkey.co.uk/mixes/george%20goes%20to%20ibiza.mp3",
+            "format": "mp3"
+          },
+          "meta": {
+            "title": "George goes to Ibiza",
+            "artist": "peng",
+            "album": "thetechmonkey"
+          }
+        },
         {
           "source": {
             "url": "http://thetechmonkey.co.uk/mixes/022.mp3",
