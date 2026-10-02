@@ -171,6 +171,35 @@
           }
         }
       ]
+    },
+    {
+      "id": "pl:5",
+      "title": "Partial",
+      "description": "One track will fail, one will success",
+      "tracks": [
+        {
+          "source": {
+            "url": "http://192.168.1.222:8000/SHERELLE_-_The_Sweatbox_-_with_Nikki_Nair_m0031l6t_original.m4a",
+            "format": "m4a"
+          },
+          "meta": {
+            "title": "SHERELLE - The Sweatbox - with Nikki Nair",
+            "artist": "Nikki Nair",
+            "album": "The Sweatbox"
+          }
+        },
+        {
+          "source": {
+            "url": "https://www.richardfarrar.com/audio/21%20-%20ID3%20Image%20-%20All%20Images.mp3",
+            "format": "mp3"
+          },
+          "meta": {
+            "title": "Has Id3 Image(c)",
+            "artist": "Nikki Nair",
+            "album": "The Sweatbox"
+          }
+        }
+      ]
     }
   ]
 }
