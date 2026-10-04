@@ -156,17 +156,61 @@
     },
     {
       "id": "pl:4",
-      "title": "BBC",
-      "description": "BBC radio recordings from 2026",
+      "title": "SHERELLE - The Sweatbox",
+      "description": "SHERELLE Presents, The Sweatbox",
       "tracks": [
+        {
+          "source": {
+            "url": "http://192.168.1.222:8000/SHERELLE_-_The_Sweatbox_-_with_Jordss_m00321v2_original.m4a",
+            "format": "m4a"
+          },
+          "meta": {
+            "title": "with Jordss",
+            "artist": "Jordss",
+            "album": "The Sweatbox"
+          }
+        },
+        {
+          "source": {
+            "url": "http://192.168.1.222:8000/SHERELLE_-_The_Sweatbox_-_with_Mount_Kimbie_m0031w46_original.m4a",
+            "format": "m4a"
+          },
+          "meta": {
+            "title": "with Mount Kimbie",
+            "artist": "Mount Kimbie",
+            "album": "The Sweatbox"
+          }
+        },
         {
           "source": {
             "url": "http://192.168.1.222:8000/SHERELLE_-_The_Sweatbox_-_with_Nikki_Nair_m0031l6t_original.m4a",
             "format": "m4a"
           },
           "meta": {
-            "title": "SHERELLE - The Sweatbox - with Nikki Nair",
+            "title": "with Nikki Nair",
             "artist": "Nikki Nair",
+            "album": "The Sweatbox"
+          }
+        },
+        {
+          "source": {
+            "url": "http://192.168.1.222:8000/SHERELLE_-_The_Sweatbox_-_with_GEG_m00318n2_original.m4a",
+            "format": "m4a"
+          },
+          "meta": {
+            "title": "with GEG",
+            "artist": "GEG",
+            "album": "The Sweatbox"
+          }
+        },
+        {
+          "source": {
+            "url": "http://192.168.1.222:8000/SHERELLE_-_The_Sweatbox_-_with_DJ_Phil_m0030ywh_original.m4a",
+            "format": "m4a"
+          },
+          "meta": {
+            "title": "with DJ Phil",
+            "artist": "DJ Phil",
             "album": "The Sweatbox"
           }
         }
