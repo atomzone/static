@@ -85,7 +85,19 @@
       "id": "pl:3",
       "title": "thetechmonkey",
       "description": "Peng mixes from thetechmonkey collection",
+      "artwork": "https://picsum.photos/50/50?pl_3",
       "tracks": [
+        {
+          "source": {
+            "url": "http://thetechmonkey.co.uk/mixes/sync.mp3",
+            "format": "mp3"
+          },
+          "meta": {
+            "title": "Sync",
+            "artist": "peng",
+            "album": "thetechmonkey"
+          }
+        },
         {
           "source": {
             "url": "http://thetechmonkey.co.uk/mixes/Slow%20down.mp3",
